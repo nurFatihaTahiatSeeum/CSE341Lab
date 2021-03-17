@@ -1,2 +1,2 @@
 # CSE341Lab
-All The alb task i was assigned in the semester Spring2021
+All The lab task I was assigned in the semester Spring2021
